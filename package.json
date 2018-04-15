@@ -1,5 +1,5 @@
 {
-  "name": "node-sass-json-importer",
+  "name": "@spernigotti/node-sass-json-importer",
   "version": "3.1.6",
   "description": "Allows importing json in sass files parsed by node-sass.",
   "main": "dist/node-sass-json-importer.js",
